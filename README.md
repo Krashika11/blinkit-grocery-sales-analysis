@@ -30,8 +30,5 @@ Analyzed 8000+ Blinkit grocery sales records containing 16 item categories and 4
 - Compared sales across outlet locations
 - Generated actionable business insights
 
-## Dashboard Screenshot
-(Add your dashboard image here)
-
 ## Skills Gained
 Data Cleaning | SQL Analysis | Power BI | Data Visualization | Business Intelligence
