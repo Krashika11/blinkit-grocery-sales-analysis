@@ -32,3 +32,9 @@ Analyzed 8000+ Blinkit grocery sales records containing 16 item categories and 4
 
 ## Skills Gained
 Data Cleaning | SQL Analysis | Power BI | Data Visualization | Business Intelligence
+
+This repository contains a complete Blinkit Grocery Sales Analysis project including:
+• Data Cleaning using Python & Power Query
+• SQL Query Analysis
+• Interactive Power BI Dashboard
+• Project Documentation & Insights
